@@ -152,8 +152,8 @@ export function Social(): JSX.Element {
             .
           </p>
 
-          {/* <p>
-            ❓ Missing something?{" "}
+          <p>
+            ❓ Missing something? suggest on{" "}
             <span>
               <a
                 href="https://github.com/GorvGoyl/Notion-Boost-browser-extension/issues/new"
@@ -161,10 +161,10 @@ export function Social(): JSX.Element {
                 rel="noopener"
                 title="Create Github issue"
               >
-                suggest / feedback.
+                Github
               </a>
             </span>
-          </p> */}
+          </p>
         </>
       )}
       <p>
